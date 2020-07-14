@@ -2,7 +2,7 @@
 
 Hello, I'm Hunter Renard! Welcome to my GitHub page.
 
-I am working as a full-stack web developer currently. I Love to create art and express myself through code. Currently am passionately self-learning data science.
+I Love to create art and express myself through code. Currently I am passionately self-learning data science.
 
 See more of me:
 
