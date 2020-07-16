@@ -2,8 +2,6 @@
 
 Hello, I'm Hunter Renard! Welcome to my GitHub page.
 
-I love to create art and express myself through code. Currently, I am passionate about self-learning data science.
-
 See more of me:
 
 LinkedIn: https://www.linkedin.com/in/hunterrenard/
