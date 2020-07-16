@@ -6,4 +6,6 @@ See more of me:
 
 LinkedIn: https://www.linkedin.com/in/hunterrenard/
 
+Kaggle https://www.kaggle.com/hunterrenard/
+
 Website: https://www.hunterrenard.com/
